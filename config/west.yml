@@ -46,6 +46,6 @@ manifest:
       remote: rolio
       revision: develop
       clone-depth: 1
-      path: .west/repos/zmk-rolio-shield
+      path: modules/zmk-rolio-shield # <-- Change this line
   self:
     path: config
